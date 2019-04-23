@@ -2,43 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e896aff6-3d38-4ec0-af07-30efad02b272" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/notebooksCountTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/notebooksCountTest_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/notebooksCountTest_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/countTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooksCountTest/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooksCountTest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/notebooksCountTest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooksCountTest/build/classes/java/test/countTest/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/notebooksCountTest/build/classes/java/test/countTest/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooksCountTest/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/notebooksCountTest/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooksCountTest/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/notebooksCountTest/build/test-results/test/binary/output.bin.idx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/notebooksCountTest/.gradle/" />
     <ignored path="$PROJECT_DIR$/notebooksCountTest/build/" />
+    <ignored path="$PROJECT_DIR$/notebooksCountTest/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +36,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notebooksCountTest/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="274">
+              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/countTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,12 +58,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooksCountTest/src/test/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebooksCountTest/build/reports/tests/test/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="-266">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#703#704#0" expanded="true" />
                 <element signature="e#732#733#0" expanded="true" />
               </folding>
@@ -112,9 +99,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/notebooksCountTest/build.gradle" />
         <option value="$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/Test.java" />
         <option value="$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/countTest1.java" />
+        <option value="$PROJECT_DIR$/notebooksCountTest/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/notebooksCountTest/build.gradle" />
       </list>
     </option>
   </component>
@@ -124,7 +112,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="12" />
     <option name="y" value="229" />
     <option name="width" value="1346" />
@@ -136,43 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="notebooksCountTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="notebooksCountTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="notebooksCountTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="notebooksCountTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="notebooksCountTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="notebooksCountTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="notebooksCountTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="notebooksCountTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="notebooksCountTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="notebooksCountTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="countTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -197,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.countTest1.testCountDifferences">
+  <component name="RunManager" selected="TestNG.C:/Users/Anastasia/Documents/GitHub/Rozetka/notebooksCountTest/src/test/resources/testng.xml">
     <configuration name="countTest1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -217,6 +169,16 @@
       </ExternalSystemSettings>
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/Anastasia/Documents/GitHub/Rozetka/notebooksCountTest/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="notebooksCountTest_test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/notebooksCountTest/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="countTest1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="notebooksCountTest_test" />
@@ -255,6 +217,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Anastasia/Documents/GitHub/Rozetka/notebooksCountTest/src/test/resources/testng.xml" />
         <item itemvalue="TestNG.countTest1.testCountDifferences" />
         <item itemvalue="TestNG.countTest1" />
         <item itemvalue="Gradle.countTest1" />
@@ -275,24 +238,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="countTest1_testCountDifferences - 2019.04.18 at 18h 07m 54s.xml">
-      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="countTest1_testCountDifferences - 2019.04.18 at 19h 08m 23s.xml">
-      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="countTest1_testCountDifferences - 2019.04.18 at 19h 23m 23s.xml">
-      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="countTest1_testCountDifferences - 2019.04.18 at 19h 43m 11s.xml">
-      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="countTest1_testCountDifferences - 2019.04.18 at 19h 49m 33s.xml">
-      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="countTest1_testCountDifferences - 2019.04.18 at 19h 53m 45s.xml">
-      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="countTest1_testCountDifferences - 2019.04.18 at 19h 57m 18s.xml">
       <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
     </history-entry>
@@ -305,22 +250,38 @@
     <history-entry file="countTest1_testCountDifferences - 2019.04.22 at 20h 35m 12s.xml">
       <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="countTest1_testCountDifferences - 2019.04.23 at 17h 24m 13s.xml">
+      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="countTest1_testCountDifferences - 2019.04.23 at 17h 25m 39s.xml">
+      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="countTest1_testCountDifferences - 2019.04.23 at 17h 28m 08s.xml">
+      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="countTest1_testCountDifferences - 2019.04.23 at 17h 46m 41s.xml">
+      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="countTest1_testCountDifferences - 2019.04.23 at 18h 17m 49s.xml">
+      <configuration name="countTest1.testCountDifferences" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Anastasia_Documents_GitHub_Rozetka_notebooksCountTest_src_test_resources_testng_xml - 2019.04.23 at 18h 27m 40s.xml">
+      <configuration name="C:/Users/Anastasia/Documents/GitHub/Rozetka/notebooksCountTest/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,6 +290,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -342,32 +304,41 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/Test.java" />
-    <entry file="file://$PROJECT_DIR$/notebooksCountTest/build.gradle">
+    <entry file="file://$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/countTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/notebooksCountTest/build/reports/tests/test/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="-266">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#703#704#0" expanded="true" />
             <element signature="e#732#733#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebooksCountTest/src/test/java/countTest/countTest1.java">
+    <entry file="file://$PROJECT_DIR$/notebooksCountTest/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooksCountTest/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
